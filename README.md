@@ -42,7 +42,18 @@ The dashboard helps visualize patient distribution and wait trends over time to 
 * **DAX Measures** – Custom calculations for trends and KPIs
 * **Drill-through & Slicers** – To navigate data at multiple levels
 
----
+
+
+
+
+
+
+## 🖼️ Dashboard Preview
+
+### 📌 Summary View
+![Summary View](![Screenshot 2025-06-10 121611](https://github.com/user-attachments/assets/c37b5439-f0c8-45d2-8e96-9965e0c8f8ae)
+
+
 
 \📂 How to Use
 -------------------------------------------------------------------------------------------------------
