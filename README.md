@@ -55,4 +55,4 @@ The dashboard helps visualize patient distribution and wait trends over time to 
 
 
 
-هل تود نسخة بصيغة `README.md` فعليًا؟ أو ترجمتها للعربية لو سترفعها لجمهور محلي؟
+
