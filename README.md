@@ -50,11 +50,16 @@ The dashboard helps visualize patient distribution and wait trends over time to 
 
 ## 🖼️ Dashboard Preview
 
-### 📌 Summary View
-![Summary View](![Screenshot 2025-06-10 121611](https://github.com/user-attachments/assets/c37b5439-f0c8-45d2-8e96-9965e0c8f8ae)
+### 📌 Summary 
+![Summary ](![Screenshot 2025-06-10 121611](https://github.com/user-attachments/assets/c37b5439-f0c8-45d2-8e96-9965e0c8f8ae)
 
+### 📌 Details View
+![Details View](![Screenshot 2025-06-10 121132](https://github.com/user-attachments/assets/e7637baf-46be-414a-b0c4-fb83cdbc560d)
+)
 
-
+### 📌 Specialty Drilldown
+![Specialty Drilldown](![Uploading Screenshot 2025-06-10 121156.png…]()
+)
 \📂 How to Use
 -------------------------------------------------------------------------------------------------------
 
